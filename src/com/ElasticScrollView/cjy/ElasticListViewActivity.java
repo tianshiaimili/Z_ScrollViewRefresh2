@@ -9,7 +9,7 @@ import android.widget.TextView;
 import com.ElasticScrollView.view.ElasticListView2;
 import com.ElasticScrollView.view.ElasticListView2.OnRefreshListener;
 import com.ElasticScrollView.view.LogUtils2;
-
+////////////德玛西亚
 public class ElasticListViewActivity extends Activity {
 	//弹性view
 	
